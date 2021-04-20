@@ -6,3 +6,6 @@
 
 - name: GLSL
   color: light
+
+  -name: HTML/CSS
+  color: light
