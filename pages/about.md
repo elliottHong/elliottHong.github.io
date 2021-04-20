@@ -17,7 +17,7 @@ I am junior at DigiPen Institute of Technology.
 {% include about/cards.html title="Programming Skills" source=site.data.programming-skills %}
 </div>
 <div class="col-md-6">
-{% include about/cards.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 <div class="w-100"></div>
 <div class="col mt-4">
@@ -26,5 +26,9 @@ I am junior at DigiPen Institute of Technology.
 </div>
 
 <div class="row">
-{% include about/timeline.html title="Experience" source=site.data.timeline %}
+{% include about/timeline.html title="Education" source=site.data.education-timeline %}
+</div>
+
+<div class="row">
+{% include about/timeline.html title="Experience" source=site.data.experience-timeline %}
 </div>
