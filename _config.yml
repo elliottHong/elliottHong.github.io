@@ -1,11 +1,9 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Elliott Hong
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
-baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+                      "Work in progress"
+#baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : elliottHong/elliottHong.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
@@ -25,8 +23,8 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Elliott Hong
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+# image             : https://i.imgur.com/uyDNQnn.jpg
+# behance           : your_username
 # dribbble          : your_username
   email             : tjdgus3174@gmail.com
 # facebook          : your_username
