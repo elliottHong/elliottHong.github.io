@@ -26,5 +26,5 @@ I am junior at DigiPen Institute of Technology.
 </div>
 
 <div class="row">
-{% include about/timeline.html %}
+{% include about/timeline.html title="Experience" source=site.data.timeline %}
 </div>
