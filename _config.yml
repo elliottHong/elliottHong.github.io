@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Elliott Hong
-description         : >-
-                      "Work in progress"
+profile         : >-
+                      "Hello World!"
 #baseurl            : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : elliottHong/elliottHong.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
