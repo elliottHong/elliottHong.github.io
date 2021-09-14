@@ -36,6 +36,6 @@ I am junior at DigiPen Institute of Technology.
 <br/>
 <br/>
 
-{% include elements/button.html link="https://elliotthong.github.io/download/resume.pdf" text="Download RESUME as pdf" block=true %}
+{% include elements/button.html link="https://resume.creddle.io/resume/6kgcau4qh9r" text="Download RESUME as pdf" block=true %}
 
 <br/>
