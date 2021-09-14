@@ -32,3 +32,10 @@ I am junior at DigiPen Institute of Technology.
 <div class="row">
 {% include about/timeline.html title="Experience" source=site.data.experience-timeline %}
 </div>
+
+<br/>
+<br/>
+
+{% include elements/button.html link="https://minuilee.github.io/download/Resume.pdf" text="Download RESUME as pdf" block=true %}
+
+<br/>
